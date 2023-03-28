@@ -29,6 +29,6 @@ Additional Notes:
 -Other than that, have fun! Shouldn't be too hard.  
 
 
-GAMPLAY IMAGES
+GAMPLAY IMAGES  
 ![alt title screen](https://github.com/ChristianFisla/personal-website/blob/main/src/Images/kotitlescreen.png?raw=true)
-![alt gameplay](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt gameplay](https://github.com/ChristianFisla/personal-website/blob/main/src/Images/gameplayImage.png?raw=true)
