@@ -29,6 +29,6 @@ Additional Notes:
 -Other than that, have fun! Shouldn't be too hard.  
 
 
-GAMPLAY IMAGES  
+GAMEPLAY IMAGES  
 <img src="https://github.com/ChristianFisla/personal-website/blob/main/src/Images/kotitlescreen.png" width="500" height="500">
 <img src="https://github.com/ChristianFisla/personal-website/blob/main/src/Images/gameplayImage.png" width="500" height="500">
