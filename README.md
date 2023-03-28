@@ -30,5 +30,5 @@ Additional Notes:
 
 
 GAMPLAY IMAGES  
-![alt title screen](https://github.com/ChristianFisla/personal-website/blob/main/src/Images/kotitlescreen.png?raw=true)
-![alt gameplay](https://github.com/ChristianFisla/personal-website/blob/main/src/Images/gameplayImage.png?raw=true)
+![alt title screen](https://github.com/ChristianFisla/personal-website/blob/main/src/Images/kotitlescreen.png? =250x250)
+![alt gameplay](https://github.com/ChristianFisla/personal-website/blob/main/src/Images/gameplayImage.png? =250x250)
