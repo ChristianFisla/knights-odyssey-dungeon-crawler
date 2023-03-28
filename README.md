@@ -27,3 +27,8 @@ Known Bugs/Erros:
 Additional Notes:  
 -Tip: Stay away from the Ogres, they are very strong!  
 -Other than that, have fun! Shouldn't be too hard.  
+
+
+GAMPLAY IMAGES
+![alt title screen](https://github.com/[christianfisla]/[personal-website]/src/images/kotitlescreen.png?raw=true)
+![alt gameplay](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
