@@ -30,5 +30,5 @@ Additional Notes:
 
 
 GAMPLAY IMAGES  
-<img src="https://github.com/ChristianFisla/personal-website/blob/main/src/Images/kotitlescreen.png" width="505" height="505">
-<img src="https://github.com/ChristianFisla/personal-website/blob/main/src/Images/gameplayImage.png" width="505" height="505">
+<img src="https://github.com/ChristianFisla/personal-website/blob/main/src/Images/kotitlescreen.png" width="500" height="500">
+<img src="https://github.com/ChristianFisla/personal-website/blob/main/src/Images/gameplayImage.png" width="500" height="500">
